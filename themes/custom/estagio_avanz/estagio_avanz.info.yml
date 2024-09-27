@@ -6,8 +6,8 @@ core_version_requirement: ^8 || ^9 || ^10
 base theme: bootstrap_barrio
 
 libraries:
-  - estagioAvanz/bootstrap_cdn
-  - estagioAvanz/global-styling
+  - estagio_avanz/bootstrap_cdn
+  - estagio_avanz/global-styling
 
 regions:
   top_header: 'Top header'
